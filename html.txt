@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>project 3 web page</title>
+        <title>git hub</title>
     </head>
     <body>
         <h1>paragraph tag</h1>
@@ -11,3 +11,4 @@
        </p>
     </body>
 </html>
+
