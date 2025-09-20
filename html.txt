@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>project 3 web page</title>
+    </head>
+    <body>
+        <h1>paragraph tag</h1>
+       <p>A paragraph in HTML is simply a block of text enclosed within the 'p' tag. <br>
+        The 'p' tag helps divide content into manageable, readable sections.<br>
+         It's the go-to element for wrapping text in a web page that is meant to be displayed as a distinct paragraph.
+       </p>
+    </body>
+</html>
